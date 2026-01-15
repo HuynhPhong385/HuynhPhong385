@@ -1,7 +1,7 @@
-# Hi, I'm Ngoc Phong 👋
+# About Me
 
-### Aspiring AI Engineer | NLP & MLOps Enthusiast
-I am a passionate AI Engineering student dedicated to building scalable and efficient machine learning solutions. My current focus is on **Natural Language Processing (NLP)** and architecting end-to-end ML pipelines.
+### AI Engineer | NLP & MLOps Enthusiast
+Final-year Data Science student at Ho Chi Minh City University of Transport (UT-HCM). Passionate about ML and DL, with a strong foundation in Python and data processing. Seeking an AI Engineer Internship to apply my technical skills in building real-world AI solutions and contribute to the team's success.
 
 ---
 
