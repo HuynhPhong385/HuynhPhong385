@@ -6,12 +6,19 @@ Final-year Data Science student at Ho Chi Minh City University of Transport (UT-
 ---
 
 ### Tech Stack
-- **Programming:** Python (proficient), SQL
-- **Machine Learning:** TensoFlow, Pytorch, OpenCV, Scikit-learn, Pandas, NumPy
-- **NLP:** PyVi, NLTK, Transformers, TF-IDF
-- **MLOps & Deployment:** Git, Streamlit, Docker, Flask
-- **Tools:** VS Code, Jupyter Notebook
 
+## 🚀 AI Engineering Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,mysql)](https://skillicons.dev)
+
+## LLM & RAG
+
+* LangChain
+* Ollama
+* ChromaDB
+* Transformers
+* RAG Pipeline
+* Hugging Face
 
 ---
 ### 📫 Connect with me
