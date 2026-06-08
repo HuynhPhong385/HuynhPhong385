@@ -1,7 +1,7 @@
 # About Me
 
 ### AI Engineer | NLP & MLOps Enthusiast
-Final-year Data Science student at Ho Chi Minh City University of Transport (UT-HCM). Passionate about ML and DL, with a strong foundation in Python and data processing. Seeking an AI Engineer Internship to apply my technical skills in building real-world AI solutions and contribute to the team's success.
+A new day brings new energy - make the most of it with joy
 
 ---
 
